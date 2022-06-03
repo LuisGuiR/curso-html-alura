@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Neonderthaw&family=Roboto&display=swap');
+
+body{
+    font-family:'Roboto', sans-serif;
+    background-color: white;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: #cccccc;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+p{
+    color: black;
+    text-align: justify;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+#missao{
+    font-size: 20px;
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right:15% ;
+}
+.imagembeneficios{
+    width: 50%;
+}
