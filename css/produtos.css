@@ -1,3 +1,6 @@
+body{
+    background: white;
+}
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -18,7 +21,7 @@
     border-color: #ffdc3d;
 }
 .produtos li:hover h2{
-    font-size: 34px;
+    transform: scale(1.2)
 }
 .produtos li:active{
     border-color: #46cbff;
